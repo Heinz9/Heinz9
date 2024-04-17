@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heinz9 (Heinz)
-- 👀 I’m interested in home-automation (homematic)
-- 🌱 I’m currently learning scripting in the homematic environment
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m fascinated in home-automation and the many ways of connecting smart things (started originally with a CCU and Homematic equipment)
+- 🌱 I’m currently learning scripting and visualisations of my equipment using ioBroker
+- 💞️ I’m looking to extend my (still basic - but increasing) homeautomation competences...
 - 📫 How to reach me ...
 
 <!---
